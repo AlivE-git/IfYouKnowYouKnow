@@ -162,7 +162,4 @@ https://github.com/AlivE-git/IfYouKnowYouKnow/raw/refs/heads/main/Karing_1.2.2.8
 
 <div align="center"><img src="images/4_update.png" alt="drawing" width="400"/></div>
 
-<details>
-  <summary>Почему два одинаковых пункта?</summary>
-    Трудности перевода) На английском там "Refresh" и "Update".
-  </details>
+Почему два одинаковых пункта? Трудности перевода) На английском там "Refresh" и "Update".

@@ -40,4 +40,4 @@ mtu_xray=$((last_success - 16))
 echo ""
 echo "🎯 Результат:"
 echo "   MTU сети: $mtu_net"
-echo "   Рекомендуемый MTU для Karing: $mtu_xray"
+# echo "   Рекомендуемый MTU для Karing: $mtu_xray"

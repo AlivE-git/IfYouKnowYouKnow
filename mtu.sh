@@ -12,7 +12,7 @@ START=1500
 END=1200
 STEP=10
 
-echo "🔍 Ищем оптимальный MTU для Xray (цель: $TARGET)"
+echo "🔍 Ищем оптимальный MTU (цель: $TARGET)"
 echo ""
 
 current=$START
@@ -34,8 +34,10 @@ while [ $current -ge $END ]; do
     fi
 done
 
+mtu_net=$((last_success + 28))
 mtu_xray=$((last_success - 16))
 
 echo ""
 echo "🎯 Результат:"
-echo "   Рекомендуемый MTU для Xray: $mtu_xray"
+echo "   MTU сети: $mtu_net"
+echo "   Рекомендуемый MTU для Karing: $mtu_xray"

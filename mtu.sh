@@ -39,6 +39,3 @@ mtu_xray=$((last_success - 16))
 echo ""
 echo "🎯 Результат:"
 echo "   Рекомендуемый MTU для Xray: $mtu_xray"
-echo ""
-echo "Нажмите Enter для выхода"
-read

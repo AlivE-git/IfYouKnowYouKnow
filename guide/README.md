@@ -22,7 +22,7 @@
 
 ## Часть 2. Настройка ПК
 ### Часть 2а. Первоначальна настройка
-- [Скачайте по ссылке](https://github.com/KaringX/karing/releases/download/v1.2.2.844/karing_1.2.2.844_windows_x64.exe) и установите "Karing". В конце установки **уберите** галочку "Запустить Karing":
+- [Скачайте по ссылке](https://github.com/KaringX/karing/releases/download/v1.2.17.2006/karing_1.2.17.2006_windows_x64.exe) и установите "Karing". В конце установки **уберите** галочку "Запустить Karing":
 
 <div align="center"><img src="images/1_setup.png" alt="drawing" width="400"/></div>
 
@@ -44,7 +44,7 @@
 - Выберите "Резервное копирование и синхронизация" -> "Импорт и экспорт в файл" -> "Импорт из URL" -> вставьте ссылку указанную ниже и нажмите Ок
 
 ```
-https://github.com/AlivE-git/IfYouKnowYouKnow/raw/refs/heads/main/Karing_1.2.2.844_PC_config.zip
+https://github.com/AlivE-git/IfYouKnowYouKnow/raw/refs/heads/main/Karing_PC_config.zip
 ```
 - Согласитесь с перезаписью, и после получения сообщения об успешном импорте вернитесь в меню "Добавить профиль"
 - Выберите "Добавление подписки"
@@ -103,7 +103,7 @@ P.S. при запуске ПК ненадолго будет появлятьс
   
 ## Часть 3. Настройка телефона
 ### Часть 3а. Первоначальна настройка
-- [Скачайте по ссылке](https://github.com/KaringX/karing/releases/download/v1.2.2.844/karing_1.2.2.844_android_arm64-v8a.apk) и установите "Karing"
+- [Скачайте по ссылке](https://github.com/KaringX/karing/releases/download/v1.2.17.2006/karing_1.2.17.2006_android_arm64-v8a.apk) и установите "Karing"
 - Запустите "Karing"
 - Выберите русский язык, и прокликайте дальше, пока не попадете в меню "Добавить 
 профиль":
@@ -113,7 +113,7 @@ P.S. при запуске ПК ненадолго будет появлятьс
 - Выберите "Резервное копирование и синхронизация" -> "Импорт и экспорт в файл" -> "Импорт из URL" -> вставьте ссылку указанную ниже и нажмите Ок
 
 ```
-https://github.com/AlivE-git/IfYouKnowYouKnow/raw/refs/heads/main/Karing_1.2.2.844_Phone_config.zip
+https://github.com/AlivE-git/IfYouKnowYouKnow/raw/refs/heads/main/Karing_Phone_config.zip
 ```
 - Согласитесь с перезаписью, и после получения сообщения об успешном импорте вернитесь в меню "Добавить профиль"
 - Выберите "Добавление подписки"
